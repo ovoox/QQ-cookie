@@ -4,4 +4,5 @@
 ## 🍄 安装
 直接上传压缩包并解压 访问域名即可
 ## 🏖 图片
-   ![介绍图1]()
+   ![介绍图1](https://github.com/ovoox/QQ-cookie/blob/main/20160505223747.png?raw=true)
+  ![介绍图2](https://github.com/ovoox/QQ-cookie/blob/main/20160505223715.png?raw=true)
