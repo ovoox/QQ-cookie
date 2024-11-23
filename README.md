@@ -1,1 +1,4 @@
 
+```sh
+pnpm install
+```
